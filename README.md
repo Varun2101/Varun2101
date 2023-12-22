@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Varun2101&theme=radical&count_private=true&show_icons=true&hide=stars&include_all_commits=true" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varun2101&theme=aura_dark)
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Varun2101&theme=radical&count_private=true&show_icons=true&hide=stars&include_all_commits=true" /> -->
