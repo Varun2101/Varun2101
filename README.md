@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm an ML Engineer working at Unravel Carbon. I graduated with a Bachelor's in Data Science and Artificial Intelligence from Nanayang Technological University.
+I'm a Data Scientist at SAP Labs Singapore. I graduated with a Bachelor's in Data Science and Artificial Intelligence from Nanayang Technological University.
 
 
 
